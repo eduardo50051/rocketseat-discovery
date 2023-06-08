@@ -46,7 +46,8 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   padding: 0 24px;
   /*
   quando se poe os 4 valores de margin ela funciona como um relogio: sendo o primeiro valor=em cima, o segundo valor=a direita, o terceiro valor= em baixo, o quarto valor= a esquerda. tirando a necessidade de escrever todo o codigo podendo usar o shorthand.
